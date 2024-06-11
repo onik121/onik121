@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, I am Jahid Hasan
+![](https://media.licdn.com/dms/image/D5616AQGq6PTKpC1sUw/profile-displaybackgroundimage-shrink_350_1400/0/1714670323994?e=1723680000&v=beta&t=o5kDzpO9bFaZklkaEo207UIesvK7H-RRKR7tOarwc4Y)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: Html / CSS / JS / React / Node.js / Express.js / Firebase / MongpDB / JWT
 
 
-**onik121/onik121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onik121)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Onik121&show_icons=true&count_private=true)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jahid-hasan-developer//)  
+
+
+ 
+
+
 
