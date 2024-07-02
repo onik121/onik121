@@ -10,7 +10,11 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahid-hasan-developer/)  
 
 
- 
-
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=onik121&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=onik121&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=onik121&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
