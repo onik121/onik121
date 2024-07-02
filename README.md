@@ -6,4 +6,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onik121&theme=default&hide_border=true" alt="GitHub Stats">
+</div>
 
