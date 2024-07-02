@@ -12,8 +12,7 @@
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=onik121&theme=default&hide_border=true&include_all_commits=false&count_private=false)
+## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=onik121&theme=default&hide_border=true)
 
 
