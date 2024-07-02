@@ -12,6 +12,9 @@
    <div style="background-color: white; padding: 5px; display: inline-block;">
     <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   </div>
+  <div style="background-color: white; padding: 5px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  </div>
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
