@@ -20,7 +20,8 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
 </div>
-<div align="center" style="margin-top: 200px; margin-bottom: 200px;">
+<p>&nbsp;</p> <!-- This adds a blank line above the div -->
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
