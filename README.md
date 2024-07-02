@@ -7,7 +7,7 @@
 </div>
 
 
-## 💻 Tech Stack:
+## 💻 Technologies i used:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   <img width="15" />
