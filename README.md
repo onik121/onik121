@@ -19,7 +19,9 @@
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="45" alt="bootstrap logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="15" />
+</div>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
