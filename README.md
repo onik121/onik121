@@ -6,6 +6,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onik121&theme=default&hide_border=true" alt="GitHub Stats">
 </div>
 
+## 💻 About me:
+I am a dedicated Junior Front-End Developer with a passion for creating engaging and user-friendly web experiences. My journey in web development has equipped me with a strong foundation in front-end technologies, and I am eager to bring my skills and enthusiasm to new and exciting projects.
 
 ## 💻 Technologies i used:
 <div align="center">
