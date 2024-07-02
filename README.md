@@ -6,7 +6,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onik121&theme=default&hide_border=true" alt="GitHub Stats">
 </div>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   <img width="15" />
@@ -40,7 +40,7 @@
 </div>
 
 
-# 💻 Find me:
+## 💻 Find me:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
