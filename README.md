@@ -20,7 +20,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
 </div>
-<p>&nbsp;</p> <!-- This adds a blank line above the div -->
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="15" />
@@ -34,7 +34,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express logo"  />
 </div>
-<p>&nbsp;</p> <!-- This adds a blank line above the div -->
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
   <img width="15" />
