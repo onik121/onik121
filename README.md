@@ -9,7 +9,7 @@
 
 ## 💻 Tech Stack:
 <div align="center">
-   <div style="background-color: white; padding: 10px; display: inline-block;">
+   <div style="background-color: white !important; padding: 10px; display: inline-block;">
     <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   </div>
   <div style="background-color: white; padding: 5px; display: inline-block;">
