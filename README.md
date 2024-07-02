@@ -3,7 +3,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onik121&theme=default&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onik121&theme=transparent&hide_border=false" alt="GitHub Stats">
 </div>
 
 ## 💻 Tech Stack:
